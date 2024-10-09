@@ -63,7 +63,7 @@
     "react-redux": "^8.0.5",
     "react-router-dom": "^6.21.1",
     "react-step-progress-bar": "^1.0.3",
-    "react-uid": "^2.3.2",
+    "react-uid": "^2.3.3",
     "recharts": "^2.10.3",
     "remark-gfm": "^4.0.0",
     "tinycolor2": "^1.6.0",
